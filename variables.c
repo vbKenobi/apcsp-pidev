@@ -12,6 +12,6 @@ int main()
   printf("Sum of %d and %d is %d\n", a, b, c);     
   d = c; 
   c = a;
-  d = a;
+  a = d;
   printf("When we swap the a and c we get that a is %d and c is %d\n", a, c);
 }
