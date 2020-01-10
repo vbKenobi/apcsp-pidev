@@ -2,7 +2,6 @@
 #include <math.h>
 #include <stdlib.h>
 
-
 float areaOfCircle (float radius)
 {
 
